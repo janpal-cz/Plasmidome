@@ -1,0 +1,34 @@
+The data sets are:
+H1 13d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [0.8993, 1.35289, 0.0, 94.25592, 3.4927, 0.0, 0.0]]
+H1 20d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [0.5953, 0.08512, 0.0, 97.42582, 1.88671, 0.00709, 0.0]]
+H1 27d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [11.41491, 0.03133, 0.0, 80.17865, 8.35293, 0.02218, 0.0]]
+H1 35d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [9.86465, 0.02642, 0.0, 90.10265, 0.00443, 0.00187, 0.0]]
+H2 10d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [4.45234, 0.03637, 0.0, 94.2245, 1.28678, 0.0, 0.0]]
+H2 17d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [0.34012, 0.16503, 0.00134, 99.33147, 0.16204, 0.0, 0.0]]
+H2 24d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [14.57407, 0.01031, 0.0, 85.29552, 0.12006, 0.0, 0.0]]
+H2 31d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [18.61428, 0.0256, 0.0, 81.33774, 0.01635, 0.00604, 0.0]]
+H3 9d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [3.77347, 0.0, 0.0, 93.48375, 2.74275, 0.0, 0.0]]
+H3 16d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [5.88137, 0.04596, 0.0, 91.70385, 2.34088, 0.0, 0.02795]]
+H3 23d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [3.20597, 0.13813, 0.00057, 96.62135, 0.02666, 0.0073, 0.0]]
+H3 30d: [['Actinobacteria', 'Bacteroidota', 'Candidatus melainabacteria', 'Firmicutes', 'Proteobacteria', 'Verrucomicrobia', 'Apicomplexa'], [69.38726, 0.05335, 0.0, 30.55939, 0.0, 0.0, 0.0]]
+Data array: [[8.993000e-01 5.953000e-01 1.141491e+01 9.864650e+00 4.452340e+00
+  3.401200e-01 1.457407e+01 1.861428e+01 3.773470e+00 5.881370e+00
+  3.205970e+00 6.938726e+01]
+ [1.352890e+00 8.512000e-02 3.133000e-02 2.642000e-02 3.637000e-02
+  1.650300e-01 1.031000e-02 2.560000e-02 0.000000e+00 4.596000e-02
+  1.381300e-01 5.335000e-02]
+ [0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00
+  1.340000e-03 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00
+  5.700000e-04 0.000000e+00]
+ [9.425592e+01 9.742582e+01 8.017865e+01 9.010265e+01 9.422450e+01
+  9.933147e+01 8.529552e+01 8.133774e+01 9.348375e+01 9.170385e+01
+  9.662135e+01 3.055939e+01]
+ [3.492700e+00 1.886710e+00 8.352930e+00 4.430000e-03 1.286780e+00
+  1.620400e-01 1.200600e-01 1.635000e-02 2.742750e+00 2.340880e+00
+  2.666000e-02 0.000000e+00]
+ [0.000000e+00 7.090000e-03 2.218000e-02 1.870000e-03 0.000000e+00
+  0.000000e+00 0.000000e+00 6.040000e-03 0.000000e+00 0.000000e+00
+  7.300000e-03 0.000000e+00]
+ [0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00
+  0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 2.795000e-02
+  0.000000e+00 0.000000e+00]]
