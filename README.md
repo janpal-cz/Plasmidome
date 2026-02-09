@@ -1,4 +1,4 @@
-# Plasmidome-of-chicken-gut
+# Plasmidome of chicken gut
 This GitHub repository accompanies a manuscript currently under review. 
 
 It provides Python scripts for plasmidome-associated analyses, including normalization of resistance, plasmid and MGE content abundance, and visualization of the data using Matplotlib. 
